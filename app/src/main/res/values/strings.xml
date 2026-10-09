@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScamShield AI</string>
+    <string name="app_tagline">AI-Powered Digital Risk Protection &amp; Cyber Safety</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_shield_ai">Shield AI</string>
+    <string name="nav_profile">Profile</string>
+    <string name="status_safe">SAFE — NO OBVIOUS THREAT DETECTED</string>
+    <string name="status_suspicious">SUSPICIOUS CONTENT DETECTED</string>
+    <string name="status_high_risk">THREAT DETECTED — DO NOT INTERACT</string>
+    <string name="btn_try_demo_scan">Try Demo Scan</string>
+    <string name="btn_analyze">Analyze Now</string>
+    <string name="btn_stop_alert">Stop Sound / Dismiss Alert</string>
+    <string name="btn_ask_shield_ai">Ask Shield AI</string>
+    <string name="privacy_redaction_notice">Privacy Notice: Never enter real OTP values, passwords, or PINs. Please redact personal information before submitting.</string>
+</resources>
